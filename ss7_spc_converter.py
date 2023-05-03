@@ -55,6 +55,3 @@ def spc_383_to_hexa(spc_383):
     hexa = hex(decimal)
 
     return hexa
-
-result = spc_383_to_hexa("4-55-0")
-print(result)
